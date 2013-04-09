@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lisachenko/go-aop-php": "*"
+    }
+}
